@@ -18,6 +18,8 @@
 ### :books: Studying
 > <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
+> <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+
 > <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
