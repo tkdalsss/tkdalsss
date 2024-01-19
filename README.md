@@ -1,6 +1,6 @@
 ## Welcome👋
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/lsmsk014@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
+<a href="https://bit.ly/3MoWPzR"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/lsmsk014@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
 
 CSE Undergraduate
 
