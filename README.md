@@ -4,7 +4,7 @@
 
 <a href="https://bit.ly/3MoWPzR"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://www.instagram.com/mer1o8l9baaay/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/lsmsk014@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdalsss&layout=compact)](https://github.com/tkdalsss/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdalsss)](https://solved.ac/tkdalsss/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdalsss&layout=compact)](https://github.com/tkdalsss/github-readme-stats)
 
 ### 🎅 Stack
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
