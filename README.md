@@ -2,9 +2,11 @@
 
 ### 👨‍🎓 CSE Undergraduate
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdalsss)](https://solved.ac/tkdalsss/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdalsss&layout=compact)](https://github.com/tkdalsss/github-readme-stats)
+　　[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdalsss)](https://solved.ac/tkdalsss/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdalsss&layout=compact)](https://github.com/tkdalsss/github-readme-stats)
 
 ### 👥 Project
+<div style="margin-left: 40px;">
+  
 |프로젝트|설명|기간|비고|
 |-----|-----|---|---|
 |[:dog:TOGATHER](https://github.com/CSID-DGU/2022-1-OSSP2-PORORO-9)|펫로스 증후군을 겪는 사람들을 위한 작은 쉼터|2022.04 ~ 2022.06||
@@ -13,6 +15,8 @@
 |[:calendar:Only Binary](https://github.com/OnlyBinary/main_repo)|서울시 공공서비스 종합 정보 제공 플랫폼|2024.05|2주 프로젝트|
 |[:bank:Gold Lounge](https://github.com/Meteor-hanaro)|PB와 VIP간 디지털 프라이빗 라운지|2024.05 ~ 2024.06||
 |[:baseball:함께, 하나](https://github.com/TogetherHana)|스포츠 모임통장 플랫폼|2024.06 ~ 2024.07||
+
+</div>
 
 ### 🎅 Stack
 　　<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
